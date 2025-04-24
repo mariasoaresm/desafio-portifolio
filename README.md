@@ -4,17 +4,17 @@ Este projeto foi desenvolvido como parte de um desafio prático para aplicar os 
 
 ## ✨ Sobre o Projeto
 
-🧑‍💻 Página feita com HTML e CSS puro  
-🎯 Apresenta informações sobre mim e sobre meus projetos futuros
-📱 Layout simples, leve e responsivo  
-🎨 Estilização com CSS puro, sem frameworks
+. Página feita com HTML e CSS puro  
+. Apresenta informações sobre mim e sobre meus projetos futuros
+. Layout simples, leve e responsivo  
+. Estilização com CSS puro, sem frameworks
 
 ---
 
 ## 🔧 Tecnologias Utilizadas
 
-- 🧱 **HTML5** — estruturação do conteúdo  
-- 🎨 **CSS3** — estilização visual da página
+-  **HTML5** — estruturação do conteúdo  
+-  **CSS3** — estilização visual da página
 
 ---
 
