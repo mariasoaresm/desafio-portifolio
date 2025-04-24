@@ -5,7 +5,7 @@ Este projeto foi desenvolvido como parte de um desafio prático para aplicar os 
 ## ✨ Sobre o Projeto
 
 🧑‍💻 Página feita com HTML e CSS puro  
-🎯 Apresenta informações sobre mim, meus hobbies e um projeto da faculdade  
+🎯 Apresenta informações sobre mim e sobre meus projetos futuros
 📱 Layout simples, leve e responsivo  
 🎨 Estilização com CSS puro, sem frameworks
 
