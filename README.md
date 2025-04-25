@@ -23,7 +23,6 @@ Este projeto foi desenvolvido como parte de um desafio prático para aplicar os 
 Você pode acessar a página clicando no link abaixo:  
 🔗 [Visualizar Página Pessoal](https://4gk6pg.csb.app/index.html)
 
-Perfeito! Aqui está uma seção para o `README.md` explicando **como usar o projeto**, ou seja, como visualizar ou editar a página localmente — ideal pra quem clonar o repositório e quiser testar:
 
 ---
 
